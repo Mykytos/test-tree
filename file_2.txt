@@ -1,2 +1,2 @@
-file 2 from dev
-file 2 from dev
+file 2 from local repository
+file 2 from local repository
