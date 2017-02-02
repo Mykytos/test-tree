@@ -1,1 +1,3 @@
-new branch for test submodules
+file 3 from dev
+file 3 from dev
+file 3 from dev
