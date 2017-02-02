@@ -1,2 +1,2 @@
-file 2 from local repository 222222
-file 2 from local repository 222222sssss
+file 2 from remote 2
+file 2 from remote 2
