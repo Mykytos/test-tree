@@ -1,2 +1,2 @@
-file 2 from remote 2 v.2
-file 2 from remote 2 v.2
+file 2 from remote 2 v.3
+file 2 from remote 2 v.23
